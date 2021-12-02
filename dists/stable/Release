@@ -1,0 +1,15 @@
+Origin: Example Repository
+Label: Example
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: aarch64 arm
+Components: main
+Description: An example software repository
+Date: Thu, 02 Dec 2021 06:35:33 +0000
+MD5Sum:
+ 8a5918e240a7ad1a6959294a5a1f01fe 462 main/binary-aarch64/Packages
+SHA1:
+ feac7d888b9be6c3402c4cf747392d64fd7011ce 462 main/binary-aarch64/Packages
+SHA256:
+ fe5d063b89b45d6800cb4e357acec760e755efb6290994c80d6ca1b63ca34596 462 main/binary-aarch64/Packages
