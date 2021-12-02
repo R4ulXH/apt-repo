@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Example Repository
+Label: Example
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: aarch64 arm
+Components: main
+Description: An example software repository
+Date: Thu, 02 Dec 2021 06:35:33 +0000
+MD5Sum:
+ 8a5918e240a7ad1a6959294a5a1f01fe 462 main/binary-aarch64/Packages
+SHA1:
+ feac7d888b9be6c3402c4cf747392d64fd7011ce 462 main/binary-aarch64/Packages
+SHA256:
+ fe5d063b89b45d6800cb4e357acec760e755efb6290994c80d6ca1b63ca34596 462 main/binary-aarch64/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQJKBAEBCAA0FiEEETFvJS0JRHaGY8dbvZtfLYtW3JcFAmGoa9YWHGQ0bmkzbGhl
+cm40QGdtYWlsLmNvbQAKCRC9m18ti1bcl9IsEAC57THjeY1Eh81UfoRhPqFEI2AS
+4ds7zwqL/X3joyiKg0PWZdmoLOSoiSqKomwfDXomGDUOg0ByK4jemU7U4NB27KFl
+6Yoy5fT+gq9qtj9Jv4Yy1F5hPq/ZzLyTlsycYtJaWNqCRGdCJ9RSBDVcK4kqFAQu
+OKPY4lUlgfaCW8Cv2uEP7HgFmR+3+v4MTYcvM6iUzDZGulKP0/TrnvEXe33zWwMp
+CiT8FeokuEnH1/N9OzObqGgLEmI7fLhOZw6K4M+w795YSGoCaATZbAQp3mLGYrM9
+76ir+j5f4SFPUDX0thhTzY+o6wj8H/y73xudz7FfkGrm5MW0ROS3AvQEXotuSB8C
+c4sSVbhzi2q9zqnPV+GRjlY1PJtB7/D/DZ+rZz25mZicr5Shqzetx3zUbqfZea8F
+fKQ1ynin+JrsdE44Vg0AQP947TEoKQzsOETjHP1PGCYTyb2lFFWbUU6ESckINyfv
+JoripE2i/mDWOxEKM3YvPAHoDHf9VxXvaMQV8lUK0j70O/SW28pGTZpmAXlDg8tM
+s4l5q1nIBv2k20OfhV1ccBhJs9EY6ngrrhYn3Knko81SDpOSQTRryooqbBgofidn
+2x11KY+t3xadwZdp/S+qVFKwMcTmYdgJE6mN1zSxLz+RvaKModPfLI/15GkWh1ej
+s48F39ScMwhz8T9C5w==
+=5azE
+-----END PGP SIGNATURE-----
