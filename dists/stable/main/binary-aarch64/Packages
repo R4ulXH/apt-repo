@@ -1,0 +1,13 @@
+Package: Ngrok-Tunnel
+Version: 1.0
+Architecture: all
+Maintainer: @RaulXH
+Depends: resolv-conf,proot
+Filename: pool/Ngrok-Tunnel_1.0_all.deb
+Size: 10824240
+MD5sum: 4faf6c537f35e0c39ea08d06f1903a24
+SHA1: f25887ce7cecf3a4c286604684fe412f0649ba16
+SHA256: 1a410807a752d3713384318a59fc4e1e4f125388a6f6cee82e1559b935c41f78
+Homepage: https://ngrok.com/
+Description: Ngrok provides a real-time web UI where you can introspect all HTTP traffic running over your tunnels.
+
